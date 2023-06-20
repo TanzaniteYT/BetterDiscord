@@ -5,9 +5,9 @@
   --app-radius: 10px;
   --sidebar-color: rgba(0,0,0,0.4);
   --main-content-color: rgba(0,0,0,0.2);
-  --accent-hue: 271;
-  --accent-saturation: 72%;
-  --accent-lightness: 63%;
+  --accent-hue: 31;
+  --accent-saturation: 100%;
+  --accent-lightness: 50%;
   --accent-hsl: var(--accent-hue),calc(var(--accent-saturation) * var(--saturation-factor)),var(--accent-lightness);
   --accent-opacity: 1;
   --accent-text-color: #000;
