@@ -7,7 +7,7 @@
   --main-content-color: rgba(184,56,48,0.2);
   --accent-hue: 260;
   --accent-saturation: 80%;
-  --accent-lightness: 16%;
+  --accent-lightness: 40%;
   --accent-hsl: var(--accent-hue),calc(var(--accent-saturation) * var(--saturation-factor)),var(--accent-lightness);
   --accent-opacity: 1;
   --accent-text-color: #000;
